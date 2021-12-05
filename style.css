@@ -33,6 +33,10 @@ body {
 	cursor: pointer;
 }
 
+.show-modal:hover {
+	box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.3);
+}
+
 .close-modal {
 	position: absolute;
 	top: 1.2rem;

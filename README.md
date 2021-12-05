@@ -1,1 +1,1 @@
-# js-modal-project
+# Little modals project, done in JS
